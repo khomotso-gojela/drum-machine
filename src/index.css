@@ -1,0 +1,11 @@
+body {
+  background-color: gray;
+}
+#drum-machine {
+  text-align: center;
+  margin: 100px;
+}
+
+#display {
+  background-color: aliceblue;
+}
